@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/treehouse_hq.PNG') no-repeat top center ;
+  background: url('images/the_treehouse_house.PNG') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -84,6 +84,9 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 } 
+img {
+  max-width: 100%;
+}
 .location {
   background-color: purple;
   color: whitesmoke;
